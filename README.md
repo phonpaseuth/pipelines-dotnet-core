@@ -1,3 +1,5 @@
+[![Build Status](https://xom-evolve.visualstudio.com/Bib%20Gourmand/_apis/build/status/phonpaseuth.pipelines-dotnet-core?branchName=master)](https://xom-evolve.visualstudio.com/Bib%20Gourmand/_build/latest?definitionId=125&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
